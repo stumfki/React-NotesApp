@@ -23,4 +23,4 @@ Note Management: Users can create new notes, edit existing notes, and delete not
 
 **Conclusion:**
 
-The React Notes App is a user-friendly tool designed to make note-taking and organization easier. The integration of ReactMde provides a powerful text editor for creating and editing notes, while the note management and persistence features allow users to easily keep track of their notes. Try out the React Notes App today and make note-taking a breeze!
+The React-Notes App is a user-friendly tool designed to make note-taking and organization easier. The integration of ReactMde provides a powerful text editor for creating and editing notes, while the note management and persistence features allow users to easily keep track of their notes. Try out the React Notes App today and make note-taking a breeze!
