@@ -1,5 +1,10 @@
 **React Notes App Documentation**
 
+
+**Preview of the app:**
+
+**https://notesappdindobrnjic.netlify.app/**
+
 **Introduction:**
 
 This documentation provides a comprehensive guide to using the React Notes App. The app is built using ReactJS and utilizes ReactMde for text editing. The purpose of this app is to allow users to create, edit and store notes in an efficient and user-friendly manner.
